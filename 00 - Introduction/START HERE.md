@@ -13,7 +13,7 @@ This repository is divided into "documents". A document is a is a structured col
 
 This document will go over the bare minimum needed to navigate this repository.
 
-If you would like to download this repository, please see [Instructions to Downloading Repository](../99%20-%20Unsorted%20Files/Instructions%20to%20Downloading%20Repository.md).
+If you would like to download this repository, please see [How to Download Repository](How%20to%20Download%20Repository.md).
 
 ## Things to Know
 First things first, we have some things we would like you to know.
@@ -171,7 +171,7 @@ Serif: letters have small lines or extensions at the ends of their strokes. This
 
 This section of text you are reading right now is "sans-serif". Sans comes from the French language and means "without". So, "sans-serif" means "without serif". No additional lines or extensions are made at the end of a letter's stroke.
 
-We also rely on external resources that may use fonts or typefaces that differ from this repository. We hope the fonts in those external resources will still be readable to you.
+External resources in this repository use fonts that differ from this repository. We hope the fonts in those external resources will still be readable to you.
 
 ### Links
 Some words have blue text and an underline [like this](https://google.com). These are "links". They are a reference to another resource.
@@ -265,7 +265,7 @@ Congratulations, you've reached the end of the introduction! At this point, we r
 ### Next Steps
 
 > [!important]
-> If you are accessing this repository digitally, please see [Maintaining Digital Access to Repository](../99%20-%20Unsorted%20Files/Maintaining%20Digital%20Access%20to%20Repository.md).
+> If you are accessing this repository digitally, please see [How to Main Digital Access to Repository](How%20to%20Main%20Digital%20Access%20to%20Repository.md).
 > 
 > If you are accessing this repository via a machine that emits light, you are using a digital device.
 
