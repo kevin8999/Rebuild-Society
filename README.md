@@ -2,7 +2,7 @@
 
 Welcome to the Rebuilding Society vault! This vault contains information on how to rebuild civilization in the event society ever collapses.
 
-> [!warning] Alert
+> [!warning]
 > If you are in a rush, please see [EMERGENCY](../EMERGENCY.md).
 
 However, we assume you meet the following pre-requisites:
