@@ -132,10 +132,10 @@ There are 5 types of admonitions in total.
 > [!note]
 > Contains information you should know.
 
-> [!TIP] Tip
+> [!TIP]
 > Optional information that helps you do something better.
 
-> [!important] Important
+> [!important]
 > Important information that you need.
 
 > [!warning]
