@@ -9,7 +9,7 @@ However, we assume you meet the following pre-requisites:
 
 - [ ] Can read English
 
-This document goes over the vision of this project. If you would like to start reading about the project's contents, please see [START HERE](Introduction/START%20HERE.md).
+This document goes over the vision of this project. If you would like to start reading about the project's contents, please see [START HERE](00%20-%20Introduction/START%20HERE.md).
 
 ## Project Vision
 
@@ -19,8 +19,10 @@ This project has the following principles in mind:
 
 1. **Simplicity**: using only this repository, one should be able to learn the knowledge needed to reinvent all previous human technologies.
 2. **Practicality**: all technologies described will *only* be used to increase productivity or increase overall quality of life.
-
-The only assumption made is that the reader can read English.
+3. **Open Source**: by open source, we mean that it satisifes the following principles:
+	- All files in this repository are stored in open data formats.
+	- All files in this repository are open-access.
+	- All files in this repository are editable.
 
 ## Roadmap
 This is the general path you will need to take if you want to advance humanity. Each step may also contain further sub-steps that need to be completed.
