@@ -1,0 +1,70 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1150 200" width="1150" height="200">
+	<title>New Project</title>
+	<defs>
+		<image  width="1280" height="720" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQAAAALQAQMAAAD1s08VAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAApRJREFUeJztzjEBACAMwDDm3zQSduSAo1GQOZ+b14FNQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVBeRKQLRLBAgBgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #000000 } 
+		.t2 { font-size: 50px;fill: #000000;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<use id="Background" style="opacity: .1" href="#img1" x="-65" y="-260"/>
+	<path id="Shape 2" class="s0" d="m1215-232v720h-1280v-720z"/>
+	<path id="Line" class="s1" d="m1035 63.1v9.8h-982v-9.8z"/>
+	<g id="Tick Markers">
+		<path id="tick 0" class="s1" d="m58 28v80h-6v-80z"/>
+		<path id="tick 1" class="s1" d="m158 28v80h-6v-80z"/>
+		<path id="tick 2" class="s1" d="m258 28v80h-6v-80z"/>
+		<path id="tick 3" class="s1" d="m358 28v80h-6v-80z"/>
+		<path id="tick 4" class="s1" d="m458 28v80h-6v-80z"/>
+		<path id="tick 5" class="s1" d="m558 28v80h-6v-80z"/>
+		<path id="tick 6" class="s1" d="m658 28v80h-6v-80z"/>
+		<path id="tick 7" class="s1" d="m758 28v80h-6v-80z"/>
+		<path id="tick 8" class="s1" d="m858 28v80h-6v-80z"/>
+		<path id="tick 9" class="s1" d="m958 28v80h-6v-80z"/>
+	</g>
+	<g id="Numbers">
+		<text id="0" style="transform: matrix(1,0,0,1,39,167)" >
+			<tspan x="0" y="0" class="t2">0</tspan><tspan  y="0" class="t2">
+</tspan>
+		</text>
+		<text id="1" style="transform: matrix(1,0,0,1,138,168)" >
+			<tspan x="0" y="0" class="t2">1
+</tspan>
+		</text>
+		<text id="2" style="transform: matrix(1,0,0,1,240,168)" >
+			<tspan x="0" y="0" class="t2">2
+</tspan>
+		</text>
+		<text id="3" style="transform: matrix(1,0,0,1,339,167)" >
+			<tspan x="0" y="0" class="t2">3
+</tspan>
+		</text>
+		<text id="4" style="transform: matrix(1,0,0,1,436,168)" >
+			<tspan x="0" y="0" class="t2">4
+</tspan>
+		</text>
+		<text id="5" style="transform: matrix(1,0,0,1,539,167)" >
+			<tspan x="0" y="0" class="t2">5
+</tspan>
+		</text>
+		<text id="6" style="transform: matrix(1,0,0,1,639,167)" >
+			<tspan x="0" y="0" class="t2">6
+</tspan>
+		</text>
+		<text id="7" style="transform: matrix(1,0,0,1,739,168)" >
+			<tspan x="0" y="0" class="t2">7
+</tspan>
+		</text>
+		<text id="8" style="transform: matrix(1,0,0,1,839,167)" >
+			<tspan x="0" y="0" class="t2">8
+</tspan>
+		</text>
+		<text id="9" style="transform: matrix(1,0,0,1,939,166)" >
+			<tspan x="0" y="0" class="t2">9
+</tspan>
+		</text>
+	</g>
+	<path id="Arrow head" class="s1" d="m1035 48l40 20-40 20z"/>
+</svg>
