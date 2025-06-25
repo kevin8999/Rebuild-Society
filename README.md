@@ -11,6 +11,8 @@ However, we assume you meet the following pre-requisites:
 
 This document goes over the vision of this project. If you would like to start reading about the project's contents, please see [START HERE](00%20-%20Introduction/START%20HERE.md).
 
+Note: due to GitHub restrictions on file sizes, books are stored here: https://drive.google.com/drive/folders/1YsfrqwQUMK0xpzpKCEjX6iRCRldhBG2V?dmr=1&ec=wgc-drive-globalnav-goto.
+
 ## Project Vision
 
 The goal of this project is to provide the knowledge necessary to make computers starting from nothing (other than this repository). This project aspires to serve as a foundation for future generations to restore and rebuild civilization to its former state should it ever collapse in the future.
