@@ -1,0 +1,7 @@
+.obsidian/*
+.trash/*
+../Media
+
+# Ignore everything by default. Only track `Github/` and `.gitignore`
+..
+!.gitignore
