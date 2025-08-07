@@ -11,7 +11,7 @@ Geometry is a branch of math that's all about studying shapes and sizes. It look
 Why does it matter? Well, it can be used to explain things that happen in our world. It is also used in other fields such as architecture.
 
 ## Addendum
-This is an addition to the Geometry notebook (which is called [Elementary College Geometry](Mathematics%20Media/Elementary%20College%20Geometry%20by%20Henry%20Africk.pdf)). It is licensed under Creative Commons Attribution-Noncommercial-Share Alike 4.0 License, so it is allowed here, but we are not allowed to charge money for it. As of 4 Jan 2024, this book is not available for sale, so we recommend printing it out.
+This is an addition to the Geometry notebook (which is called [Elementary College Geometry](../../Media/Mathematics/Elementary%20College%20Geometry%20by%20Henry%20Africk.pdf)). It is licensed under Creative Commons Attribution-Noncommercial-Share Alike 4.0 License, so it is allowed here, but we are not allowed to charge money for it. As of 4 Jan 2024, this book is not available for sale, so we recommend printing it out.
 
 
 
@@ -30,7 +30,7 @@ Radians (may be abbreviated as $\text{rad}$) are an alternative way to measure t
 
 As an analogy, imagine a circle, and you're standing at the center. Now, draw a line from the center to the edge – that's your radius. If you move along the circle's edge, creating an angle, the measure of that angle in radians is the length of the arc you've traveled, divided by the radius.
 
-You will learn a lot more about radians while learning [Precalculus](Mathematics/4%20-%20Precalculus.md). However, we placed this section in early in case you need to use it at some point.
+You will learn a lot more about radians while learning [Precalculus](4%20-%20Precalculus.md). However, we placed this section in early in case you need to use it at some point.
 
 As an equation, radians are measured using:
 $$\theta = \frac{s}{r}$$
@@ -63,4 +63,4 @@ $$\frac{\pi}{180 \degree}$$
 When doing conversions, make sure you put the unit you want to get rid of in the denominator.
 
 ## Next Steps
-After geometry is [4 - Precalculus](Mathematics/4%20-%20Precalculus.md).
+After geometry is [4 - Precalculus](4%20-%20Precalculus.md).

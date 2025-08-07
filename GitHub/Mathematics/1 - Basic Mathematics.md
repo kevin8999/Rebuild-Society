@@ -12,13 +12,13 @@ In mathematics, "sets" are groups of objects.
 
 If a set has objects, it must have a certain amount of those objects. For example, the image below has a single "O".
 
-![](Media/One%20Circle.png)
+![One Circle](Mathematics%20Media/One%20Circle.png)
 
 This "O" is called a "circle" in mathematics.
 
 Sets can contain any amount of objects, ranging from having no objects to having many objects. For example, suppose we place another circle into the set.
 
-![](Media/Two%20circles.png)
+![Two circles](Mathematics%20Media/Two%20circles.png)
 
 The two circles are now part of the same set.
 
@@ -26,7 +26,7 @@ Sets can have any amount of objects. They can have no objects, or they can have 
 
 In mathematics, you can define more than one set at a time. We will represent this simply by placing them inside certain colored areas.
 
-![](Media/Two%20sets.png)
+![Two sets](Mathematics%20Media/Two%20sets.png)
 
 The red set and blue set both have circles inside them.
 
@@ -37,7 +37,7 @@ Numbers represent the amount of objects in a set. To represent this, we use spec
 
 A numeral is a symbol used to represent the amount of objects in a set. The image below shows you the Arabic numerals:
 
-![](Media/Arabic%20Numerals%201-9.svg)
+![Arabic Numerals 1-9](Mathematics%20Media/Arabic%20Numerals%201-9.svg)
 
 Each set contains one more circle than the one before it. Similarly, the numbers you see on the left is one greater than the one before it and correspond to the amount of circles in the set to its right.
 
@@ -67,7 +67,7 @@ A number line has many "tick marks". Tick marks on a number line are small lines
 
 An image of a number line is shown below:
 
-![Number Line](Media/Number%20Line.svg)
+![Number Line](Mathematics%20Media/Number%20Line.svg)
 
 You may have noticed a "<span style="font-size: 1.5em;">▸</span>" on the right end of the number line. This is called an "arrow head". It signifies that the number line continues beyond the number 9.
 
@@ -103,7 +103,7 @@ Temperature can be measured using a tool called a "thermometer". Since you do no
 ## Next Steps
 You should now have a basic grasp of mathematics and basic applications of it. This information is enough to navigate the information in this vault as well as provide a basic understanding for [0 - Basic Survival Skills](../01%20-%20Survival/0%20-%20Basic%20Survival%20Skills.md).
 
-However, you are not done yet. At this point, you should read and complete the following chapters in [Fundamentals of Mathematics](Mathematics%20Media/Fundamentals%20of%20Mathematics.pdf):
+However, you are not done yet. At this point, you should read and complete the following chapters in [Fundamentals of Mathematics](../../Media/Mathematics/Fundamentals%20of%20Mathematics.pdf):
 
 - [ ] Chapter 1: Addition and Subtraction of Whole Numbers
 - [ ] Chapter 2: Multiplication and Division of Whole Numbers

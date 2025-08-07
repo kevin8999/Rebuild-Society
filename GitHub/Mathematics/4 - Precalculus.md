@@ -11,10 +11,10 @@ Most of calculus's applications are in science, engineering, economics, and comp
 
 The precalculus textbook is called **Precalculus 2e**. If you are accessing this repository digitally, they are stored as:
 
-- [Precalculus 2e [part 1]](Mathematics%20Media/Precalculus%202e%20(part%201).pdf)
-- [Precalculus 2e [part 2]](Mathematics%20Media/Precalculus%202e%20(part%202).pdf)
+- [Precalculus 2e [part 1]](../../Media/Mathematics/Precalculus%202e%20(part%201).pdf)
+- [Precalculus 2e [part 2]](../../Media/Mathematics/Precalculus%202e%20(part%202).pdf)
 
-After precalculus is [5 - Calculus](Mathematics/5%20-%20Calculus.md).
+After precalculus is [5 - Calculus](5%20-%20Calculus.md).
 
 ## Trigonometry Addendum
 This is an addendum to the trigonometric section of precalculus. Use this section to aid your learning in trigonometry.
@@ -31,7 +31,7 @@ For commonly used angles, use the unit circle[^circle] given below:
 
 ![Image of a Unit Circle](Media/Unit%20Circle%20by%20Gustavb.png)
 
-The unit circle can also be found on page 587 (or, page 597 for the digital version) of [Precalculus 2e](Mathematics%20Media/Precalculus%202e.pdf).
+The unit circle can also be found on page 587 (or, page 597 for the digital version) of [Precalculus 2e](../../Media/Mathematics/Precalculus%202e.pdf).
 
 Note that:
 - All measurements with $\pi$ are radians.
@@ -65,5 +65,5 @@ $$\begin{align*}
 \end{align*}$$
 It's important to note that $x$ is measured in radians. If you have any measurements in degrees, please convert them to radians by multiplying by $\pi / 180 \degree$. 
 
-Approximations for other trigonometric and polynomial functions can be found on page 585 (page 593 for the digital version) of [Calculus Volume 2](Mathematics%20Media/Calculus%20Volume%202.pdf).
+Approximations for other trigonometric and polynomial functions can be found on page 585 (page 593 for the digital version) of [Calculus Volume 2](../../Media/Mathematics/Calculus%20Volume%202.pdf).
 

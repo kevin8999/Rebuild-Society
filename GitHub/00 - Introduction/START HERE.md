@@ -13,7 +13,7 @@ This repository is divided into "documents". A document is a is a structured col
 
 This document will go over the bare minimum needed to navigate this repository.
 
-If you would like to download this repository, please see [How to Download Repository](How%20to%20Download%20Repository.md).
+If you would like to download this repository, please see [DOWNLOADING](../../DOWNLOADING.md).
 
 ## Things to Know
 First things first, we have some things we would like you to know.
@@ -200,9 +200,9 @@ As a reminder, this repository contains many textbooks written by other people. 
 
 As practice, try locating these resources now:
 
-- [FM 21-76 US ARMY SURVIVAL MANUAL](Media/Textbooks/FM%2021-76%20US%20ARMY%20SURVIVAL%20MANUAL.pdf)
-- [Dictionary](../99%20-%20Unsorted%20Files/Dictionary.md)
-- [Where There is No Doctor by David Werner](Media/Textbooks/Where%20There%20is%20No%20Doctor%20by%20David%20Werner.pdf)
+- [FM 21-76 US ARMY SURVIVAL MANUAL](../../Media/01%20-%20Survival/FM%2021-76%20US%20ARMY%20SURVIVAL%20MANUAL.pdf)
+- [Dictionary](../../99%20-%20Unsorted%20Files/Dictionary.md)
+- [Where There is No Doctor by David Werner](../../Media/01%20-%20Survival/Where%20There%20is%20No%20Doctor%20by%20David%20Werner.pdf)
 
 Internal links may sometimes refer to a section within this document. Here, a "section" is defined as any heading within the document. When referring to sections inside a document, blue text will be followed by (or begin with) the word "section".
 
@@ -261,16 +261,16 @@ Let us examine this table.
 4. **Cells**: The cells contain descriptive information that provides context about the food sources and their locations.
 
 ## End of Introduction
-Congratulations, you've reached the end of the introduction! At this point, we recommend checking out the [Dictionary](../99%20-%20Unsorted%20Files/Dictionary.md) in case you encounter a word that you do not understand.
+Congratulations, you've reached the end of the introduction! At this point, we recommend checking out the [Dictionary](../../99%20-%20Unsorted%20Files/Dictionary.md) in case you encounter a word that you do not understand.
 ### Next Steps
 
 > [!important]
-> If you are accessing this repository digitally, please see [How to Main Digital Access to Repository](How%20to%20Main%20Digital%20Access%20to%20Repository.md).
+> If you are accessing this repository digitally, please see [How to Maintain Digital Access to Repository](How%20to%20Maintain%20Digital%20Access%20to%20Repository.md).
 > 
 > If you are accessing this repository via a machine that emits light, you are using a digital device.
 
-If you know how to read a book, please move on to [Introduction to Mathematics](Mathematics/0%20-%20Introduction%20to%20Mathematics.md) and [1 - Basic Mathematics](Mathematics/1%20-%20Basic%20Mathematics.md). They will teach you how to read Arabic numerals, which will be needed when navigating a book.
+If you know how to read a book, please move on to [Introduction to Mathematics](../Mathematics/0%20-%20Introduction%20to%20Mathematics.md) and [1 - Basic Mathematics](../Mathematics/1%20-%20Basic%20Mathematics.md). They will teach you how to read Arabic numerals, which will be needed when navigating a book.
 
 From here, we recommend you read [How to Read a Book](Minimum%20Skills/How%20to%20Read%20a%20Book.md) if you do not know how to read a book. Most information in this repository is stored inside a book, so it is very important to learn how to read a book.
 
-We also strongly recommend reading [Learning How to Learn](../99%20-%20Unsorted%20Files/Learning%20How%20to%20Learn.md). Due to the vastness of human knowledge, it is almost guaranteed that you may end up learning something out of this repository, no matter how knowledgeable you think you are.
+We also strongly recommend reading [Learning How to Learn](../../99%20-%20Unsorted%20Files/Learning%20How%20to%20Learn.md). Due to the vastness of human knowledge, it is almost guaranteed that you may end up learning something out of this repository, no matter how knowledgeable you think you are.

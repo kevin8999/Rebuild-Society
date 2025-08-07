@@ -10,8 +10,8 @@ Algebra is extremely important for learning more advanced math (which in turn is
 
 With that said, you will need to read these textbooks (and in this order too):
 
-1. [ ] [Prealgebra 2e](Mathematics%20Media/Prealgebra%202e.pdf).
-2. [ ] [College Algebra 2e](Mathematics%20Media/College%20Algebra%202e.pdf).
+1. [ ] [Prealgebra 2e](../../Media/Mathematics/Prealgebra%202e.pdf).
+2. [ ] [College Algebra 2e](../../Media/Mathematics/College%20Algebra%202e.pdf).
 
 Both books are licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
@@ -84,4 +84,4 @@ $$\begin{align*}
 As you can see, the above steps give a better approximation of $\sqrt{69}$.
 
 ## Next Steps
-Once you have completed algebra, please move on to [3 - Geometry](Mathematics/3%20-%20Geometry.md).
+Once you have completed algebra, please move on to [3 - Geometry](3%20-%20Geometry.md).

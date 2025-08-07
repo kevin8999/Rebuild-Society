@@ -9,7 +9,7 @@ However, we assume you meet the following pre-requisites:
 
 - [ ] Can read English
 
-This document goes over the vision of this project. If you would like to start reading about the project's contents, please see [START HERE](00%20-%20Introduction/START%20HERE.md).
+This document goes over the vision of this project. If you would like to start reading about the project's contents, please see [START HERE](GitHub/00%20-%20Introduction/START%20HERE.md).
 
 Note: due to GitHub restrictions on file sizes, books are stored here: https://drive.google.com/drive/folders/1YsfrqwQUMK0xpzpKCEjX6iRCRldhBG2V?dmr=1&ec=wgc-drive-globalnav-goto.
 
