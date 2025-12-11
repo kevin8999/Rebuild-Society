@@ -5,33 +5,60 @@ Welcome to the Rebuilding Society vault! This vault contains information on how 
 > [!warning]
 > If you are in a rush, please see [EMERGENCY](../EMERGENCY.md).
 
-However, we assume you meet the following pre-requisites:
+The only pre-requisite is that you can read English at the B2 level as defined by Common European Framework of Reference for Languages (CEFR).
 
-- [ ] Can read English
+This document goes over how to install this project. If you would like to start reading about the project's contents, please see [START HERE](GitHub/00%20-%20Introduction/START%20HERE.md).
 
-This document goes over the vision of this project. If you would like to start reading about the project's contents, please see [START HERE](GitHub/00%20-%20Introduction/START%20HERE.md).
+If you would like to read more about the project vision, please see [VISION](./VISION.md).
 
 Note: due to GitHub restrictions on file sizes, books are stored here: https://drive.google.com/drive/folders/1YsfrqwQUMK0xpzpKCEjX6iRCRldhBG2V?dmr=1&ec=wgc-drive-globalnav-goto.
 
-## Project Vision
+## Installation
 
-The goal of this project is to provide the knowledge necessary to make computers starting from nothing (other than this repository). This project aspires to serve as a foundation for future generations to restore and rebuild civilization to its former state should it ever collapse in the future.
+> [!warning]
+> This section requires knowledge of the command line and git.
 
-This project has the following principles in mind:
+To install this project on your machine:
 
-1. **Simplicity**: using only this repository, one should be able to learn the knowledge needed to reinvent all previous human technologies.
-2. **Practicality**: all technologies described will *only* be used to increase productivity or increase overall quality of life.
-3. **Open Source**: by open source, we mean that it satisifes the following principles:
-	- All files in this repository are stored in open data formats.
-	- All files in this repository are open-access.
-	- All files in this repository are editable.
+1. Clone (download) this repository onto your machine:
 
-## Roadmap
-This is the general path you will need to take if you want to advance humanity. Each step may also contain further sub-steps that need to be completed.
+	```shell
+	git clone https://github.com/kevin8999/Rebuild-Society/
+	```
 
-## Similar Projects
-The following projects all have similar goals to this one.
+2. Go into the project folder.
 
-- [Awesome Survival](https://github.com/alx-xlx/awesome-survival): "A list of awesome survival/survivors books/guides"
-- [Open Source Ecology](https://www.opensourceecology.org/): Open source industrial machines that can be made for a fraction of commercial costs
-- [Survivor Library](https://www.survivorlibrary.com/index.php/main-library-index/): "a compendium of the Technological and Industrial Knowledge of the 1800[s] through early 1900s"
+	```shell
+	cd Rebuild-Society/
+	```
+
+### Server
+
+To run the documentation server:
+
+1. Create a virtual enviroment in Python.
+
+	```shell
+	python3 -m venv .venv
+	```
+
+2. Activate the virtual environment.
+	- On Windows, run:
+	
+		```shell
+		source ./venv/Scripts/activate
+		```
+	
+	- On MacOS and Linux, run:
+
+		```shell
+		source ./venv/bin/activate
+		```
+
+3. Run the server.
+
+	```shell
+	mkdocs serve
+	```
+
+4. The website should now be viewable at http://localhost:8000
