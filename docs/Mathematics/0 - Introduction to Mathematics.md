@@ -12,6 +12,7 @@ Note that most of the math has been outsourced to textbooks with generous copyri
 You may now move on to [1 - Basic Mathematics](1%20-%20Basic%20Mathematics.md).
 
 ## Overview
+
 We recommend you learn it in the following order:
 
 - [1 - Basic Mathematics](1%20-%20Basic%20Mathematics.md)

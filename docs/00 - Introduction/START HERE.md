@@ -5,6 +5,7 @@ aliases:
 
 
 # START HERE
+
 If you are reading this, society has collapsed and that you would like to rebuild society technologically. In which case, you have come to the right resource. 
 
 This repository contains all the knowledge needed to build the computers. A repository is a place that stores information.
@@ -16,6 +17,7 @@ This document will go over the bare minimum needed to navigate this repository.
 If you would like to download this repository, please see [DOWNLOADING](../../DOWNLOADING.md).
 
 ## Things to Know
+
 First things first, we have some things we would like you to know.
 
 We make the following assumptions.
@@ -35,6 +37,7 @@ All the technologies in this repository are practical. We will make recommended 
 Additionally, we assume that this will be the only place where you will be getting knowledge from.
 
 ## Writing Style
+
 This section goes over the writing style used in this repository.
 
 Firstly, all writing in this repository should be understandable to the average English speaker. Unless pre-requisites are *explicitly* stated, the reader is assumed to have no prior knowledge of the subject.
@@ -42,9 +45,11 @@ Firstly, all writing in this repository should be understandable to the average 
 Additionally, "post-collapse" refers to a theoretical collapse of society. In this scenario, the people living in this age live *after* the "modern" age. "Modern" refers to the point in human history where we achieved a technological peak.
 
 ## Formatting
+
 This repository uses several standards that you should familiarize yourself with. It is important to note that these formatting rules only apply to the repository and not external texts such as books.
 
 ### Headings
+
 This repository uses headings to divide information into distinct sections.
 
 Headings look like this:
@@ -61,6 +66,7 @@ Heading 1 is the most general section, and heading 6 is the most specific sectio
 Headings guide readers through the content, signaling what each section is about and how it relates to the overall topic. They help break up the text into manageable chunks and provide a clear hierarchy of information. It improves readability, organization of content, and makes it easier to find information in the future.
 
 ### Horizontal Lines
+
 You may occasionally run into horizontal lines such as these:
 
 ---
@@ -68,6 +74,7 @@ You may occasionally run into horizontal lines such as these:
 These horizontal lines help divide paragraphs of text that are not related to one another. This helps organize information in a way that's easier to navigate and understand, especially in longer texts
 
 ### Citations
+
 If you see a small number with square brackets (such as these: [^citation]), they are placeholders that tell you to look at the "references section" at the end of the document. This section tells you where the information was found. It may also contain additional information that the reader might want to look at.
 
 Post-collapse humans do not need to look at these references. They will not help you. 
@@ -77,6 +84,7 @@ For modern humans, we encourage you to look through these citations and to make 
 [^citation]: Hey! You found me!
 
 ### Lists
+
 Lists are a way to organize and present information in a structured manner. They contain groups of information.
 
 This repository use three different types of lists: ordered, unordered, and checklists.
@@ -86,6 +94,7 @@ This repository use three different types of lists: ordered, unordered, and chec
 An ordered list is a way of organizing items in a specific sequence or order. Each item in the list is given a number or another type of sequential marker to indicate its position in the list.
 
 Here is an example of an ordered list:
+
 1. Wake up
 2. Have breakfast
 3. Get dressed
@@ -99,6 +108,7 @@ The sequence shows that "wake up" is done first. Then, "have breakfast" is done 
 Unordered lists have a bullet point (the circle that appears before a line of text) before a block of information. It organizes items without any specific sequence or order.
 
 Here is an example of an unordered list:
+
 - Apples
 - Oranges
 - Mangoes
@@ -114,6 +124,7 @@ Checklists are a simple tool that helps you keep track of tasks. It's usually di
 As you complete each task, you mark it off on the checklist by putting a slash or a check mark through the box. This helps you stay organized and ensures that you don't forget anything. It guides you through what needs to be done, step by step.
 
 Here's an example checklist:
+
 - [ ] Finish reading introduction
 - [ ] Learn how to read books
 - [ ] Plan out food and water needs
@@ -148,11 +159,13 @@ There are 5 types of admonitions in total.
 Sometimes the text can look different. Examples of each typeface are given in this section.
 
 Italics: text is slanted slightly to the right. Italicized text adds emphasis.
+
 - *THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG.*
 - *the quick brown fox jumped over the lazy dog.*
 - *0123456789*
 
 Bold: lines that make up the letters are thicker. Bold letters add greater emphasis than italicized text.
+
 - **THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG.**
 - **the quick brown fox jumped over the lazy dog.**
 - **0123456789**
@@ -174,6 +187,7 @@ This section of text you are reading right now is "sans-serif". Sans comes from 
 External resources in this repository use fonts that differ from this repository. We hope the fonts in those external resources will still be readable to you.
 
 ### Links
+
 Some words have blue text and an underline [like this](https://google.com). These are "links". They are a reference to another resource.
 
 Links can be separated into two categories: internal and external.
@@ -215,6 +229,7 @@ As practice, try locating these sections inside the document:
 - [Writing Style](#Writing%20Style)
 
 ### Tables
+
 A table is a structured arrangement of data, typically organized in rows and columns. It serves as a visual representation of information, allowing for easy comparison and analysis. This guide will provide a step-by-step approach to understanding how to read and interpret a table effectively.
 
 Before diving into the interpretation of a table, it is essential to understand its basic components:
@@ -232,6 +247,7 @@ The image below gives you a general idea of what a table looks like.
 
 
 To interpret a table:
+
 1. **Read the Title**: this gives you an overview of the data.
 2. **Examine headers**: the headers indicate the type of data presented.
 3. **Analyze the rows**
@@ -261,7 +277,9 @@ Let us examine this table.
 4. **Cells**: The cells contain descriptive information that provides context about the food sources and their locations.
 
 ## End of Introduction
+
 Congratulations, you've reached the end of the introduction! At this point, we recommend checking out the [Dictionary](../../99%20-%20Unsorted%20Files/Dictionary.md) in case you encounter a word that you do not understand.
+
 ### Next Steps
 
 > [!important]

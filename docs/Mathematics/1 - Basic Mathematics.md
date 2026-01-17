@@ -33,6 +33,7 @@ The red set and blue set both have circles inside them.
 In the sets above, we used circles as a simple example. Sets can contain *any* object.
 
 ## Numbers
+
 Numbers represent the amount of objects in a set. To represent this, we use special symbols called "Arabic numerals".
 
 A numeral is a symbol used to represent the amount of objects in a set. The image below shows you the Arabic numerals:
@@ -61,6 +62,7 @@ Each numeral may also be written out as word as well. This table quickly summari
 | Nine  |   9    | O O O O O O O O O     |
 
 ### The Number Line
+
 A number line is a straight line that shows numbers in order. It helps us understand how numbers relate to each other.
 
 A number line has many "tick marks". Tick marks on a number line are small lines or marks that are used to indicate specific numbers or intervals. Tick marks are equally spaced from one another. This make it easier to read the number line.
@@ -74,18 +76,22 @@ You may have noticed a "<span style="font-size: 1.5em;">▸</span>" on the right
 To see how numbers are represented past 9, please see the [Place Values](#Place%20Values) section in this document.
 
 ### Place Values
+
 Place values denote numbers greater than 9.
 
 ## Distance
+
 Distance measures the space between two objects.
 
 ## Area
 
 
 ## Angles
+
 An angle measures the difference in direction two lines point. The space where the two lines meet is called the "vertex" of the angle.
 
 ## Temperature
+
 Temperature measures how hot or cold the environment feels.
 
 Temperature can be measured using a tool called a "thermometer". Since you do not know how to make this tool, we will 

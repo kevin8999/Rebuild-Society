@@ -34,6 +34,7 @@ For commonly used angles, use the unit circle[^circle] given below:
 The unit circle can also be found on page 587 (or, page 597 for the digital version) of [Precalculus 2e](../../Media/Mathematics/Precalculus%202e.pdf).
 
 Note that:
+
 - All measurements with $\pi$ are radians.
 - All measurements with a number and degree symbol (such as $30\degree$) are measured in degrees.
 - Coordinates are measured as $(\sin(r), \cos(r))$ where $r$ is the angle measure in radians. For example, the measurement at $\pi / 3$ radians states that $\sin(\pi /3) = 1 / 2$ and $\cos(\pi / 3) = \sqrt{3} / 2$.
@@ -55,6 +56,7 @@ $$\tan \theta = \frac{\sin\theta}{\cos\theta}$$
 where $\theta$ is the measure of the angle.
 
 ### Estimating Trigonometric Functions for Precise Angles
+
 If you need more precision (say to the closest tenth of a degree), you can use something called a "Taylor series". Taylor series approximate functions using polynomials. In this case, Taylor series allow us to approximate $\sin$ and $\cos$ without having to use a calculator. The more terms you use for a Taylor series, the more accurate the approximation becomes.
 
 The trigonometric functions $\sin$ and $\cos$ are estimated using the following Taylor series:
@@ -63,6 +65,7 @@ $$\begin{align*}
 \sin(x) &= x - \frac{x^{3}}{3!} + \frac{x^{5}}{5!} - \frac{x^{7}}{7!} + \frac{x^{9}}{9!} - ... + \frac{(-1)^{n}\cdot x^{2n+1}}{(2n+1)!} \\
 \cos(x) &= 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - \frac{x^{6}}{6!} + \frac{x^{8}}{8!} - ... + \frac{(-1)^{n}\cdot x^{2n}}{(2n)!}
 \end{align*}$$
+
 It's important to note that $x$ is measured in radians. If you have any measurements in degrees, please convert them to radians by multiplying by $\pi / 180 \degree$. 
 
 Approximations for other trigonometric and polynomial functions can be found on page 585 (page 593 for the digital version) of [Calculus Volume 2](../../Media/Mathematics/Calculus%20Volume%202.pdf).
