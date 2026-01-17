@@ -135,25 +135,25 @@ Here's an example checklist:
 ### Admonitions
 Admonitions look like this:
 
-> [!note] Title of Admonition
-> Admonitions are used to highlight any important information that you should know. They are placed in a different colored box so that they grab your attention.
+!!! note "Title of Admonition"
+    Admonitions are used to highlight any important information that you should know. They are placed in a different colored box so that they grab your attention.
 
 There are 5 types of admonitions in total.
 
-> [!note]
-> Contains information you should know.
+!!! note
+    Contains information you should know.
 
-> [!TIP]
-> Optional information that helps you do something better.
+!!! tip
+    Optional information that helps you do something better.
 
-> [!important]
-> Important information that you need.
+!!! important
+    Important information that you need.
 
-> [!warning]
-> Crucial information that informs you of any potential dangers and risks.
+!!! warning
+    Crucial information that informs you of any potential dangers and risks.
 
-> [!caution]
-> Warns of any potential negative consequences.
+!!! danger
+    Warns of any potential negative consequences.
 
 ### Typefaces
 Sometimes the text can look different. Examples of each typeface are given in this section.
@@ -282,10 +282,10 @@ Congratulations, you've reached the end of the introduction! At this point, we r
 
 ### Next Steps
 
-> [!important]
-> If you are accessing this repository digitally, please see [How to Maintain Digital Access to Repository](How%20to%20Maintain%20Digital%20Access%20to%20Repository.md).
-> 
-> If you are accessing this repository via a machine that emits light, you are using a digital device.
+!!! important
+    If you are accessing this repository digitally, please see [How to Maintain Digital Access to Repository](How%20to%20Maintain%20Digital%20Access%20to%20Repository.md).
+    
+    If you are accessing this repository via a machine that emits light, you are using a digital device.
 
 If you know how to read a book, please move on to [Introduction to Mathematics](../Mathematics/0%20-%20Introduction%20to%20Mathematics.md) and [1 - Basic Mathematics](../Mathematics/1%20-%20Basic%20Mathematics.md). They will teach you how to read Arabic numerals, which will be needed when navigating a book.
 
