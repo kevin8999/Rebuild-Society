@@ -69,7 +69,7 @@ A number line has many "tick marks". Tick marks on a number line are small lines
 
 An image of a number line is shown below:
 
-![Number Line](Mathematics%20Media/Number%20Line.svg)
+![Number Line](./Mathematics%20Media/Number%20Line.svg)
 
 You may have noticed a "<span style="font-size: 1.5em;">▸</span>" on the right end of the number line. This is called an "arrow head". It signifies that the number line continues beyond the number 9.
 
