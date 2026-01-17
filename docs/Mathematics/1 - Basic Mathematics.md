@@ -12,13 +12,13 @@ In mathematics, "sets" are groups of objects.
 
 If a set has objects, it must have a certain amount of those objects. For example, the image below has a single "O".
 
-![One Circle](Mathematics%20Media/One%20Circle.png)
+![One Circle](./Mathematics%20Media/One%20Circle.png)
 
 This "O" is called a "circle" in mathematics.
 
 Sets can contain any amount of objects, ranging from having no objects to having many objects. For example, suppose we place another circle into the set.
 
-![Two circles](Mathematics%20Media/Two%20circles.png)
+![Two circles](./Mathematics%20Media/Two%20circles.png)
 
 The two circles are now part of the same set.
 
@@ -26,7 +26,7 @@ Sets can have any amount of objects. They can have no objects, or they can have 
 
 In mathematics, you can define more than one set at a time. We will represent this simply by placing them inside certain colored areas.
 
-![Two sets](Mathematics%20Media/Two%20sets.png)
+![Two sets](./Mathematics%20Media/Two%20sets.png)
 
 The red set and blue set both have circles inside them.
 
@@ -38,7 +38,7 @@ Numbers represent the amount of objects in a set. To represent this, we use spec
 
 A numeral is a symbol used to represent the amount of objects in a set. The image below shows you the Arabic numerals:
 
-![Arabic Numerals 1-9](Mathematics%20Media/Arabic%20Numerals%201-9.svg)
+![Arabic Numerals 1-9](./Mathematics%20Media/Arabic%20Numerals%201-9.svg)
 
 Each set contains one more circle than the one before it. Similarly, the numbers you see on the left is one greater than the one before it and correspond to the amount of circles in the set to its right.
 
