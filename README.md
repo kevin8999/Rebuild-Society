@@ -46,19 +46,25 @@ To run the documentation server:
 	- On Windows, run:
 	
 		```shell
-		source ./venv/Scripts/activate
+		source ./.venv/Scripts/activate
 		```
 	
 	- On MacOS and Linux, run:
 
 		```shell
-		source ./venv/bin/activate
+		source ./.venv/bin/activate
 		```
 
-3. Run the server.
+3. Install the software to run the server.
+
+	```shell
+	pip install mkdocs-material
+	```
+
+4. Run the server.
 
 	```shell
 	mkdocs serve
 	```
 
-4. The website should now be viewable at http://localhost:8000
+5. The website should now be viewable at http://localhost:8000
