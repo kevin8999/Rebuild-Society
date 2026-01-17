@@ -96,15 +96,15 @@ Temperature measures how hot or cold the environment feels.
 
 Temperature can be measured using a tool called a "thermometer". Since you do not know how to make this tool, we will 
 
-| Temperature (°C) | Description of Feeling                          | Survival Recommendation                          |
-|-------------------|------------------------------------------------|-------------------------------------------------|
-| 0°C                | Freezing; feels very cold                      | Seek shelter and insulation to prevent hypothermia. |
-| 10°C               | Cool; might feel chilly                        | Layer clothing to retain body heat; find windbreaks. |
-| 20°C               | Mild; comfortable for most                     | Stay hydrated and avoid prolonged exposure to cold. |
-| 25°C               | Warm; nice summer day                          | Stay hydrated; seek shade to avoid heat exhaustion. |
-| 30°C               | Hot; feels warm, especially in sunlight        | Limit activity during peak heat; find water sources. |
-| 35°C               | Quite hot; can feel oppressive                 | Stay in shaded areas; use wet cloths to cool down. |
-| 40°C               | Extremely hot; uncomfortable and dangerous     | Stay indoors; ration water and avoid exertion.   |
+| Temperature (°C) | Description of Feeling                     | Survival Recommendation                              |
+| ---------------- | ------------------------------------------ | ---------------------------------------------------- |
+| 0°C              | Freezing; feels very cold                  | Seek shelter and insulation to prevent hypothermia.  |
+| 10°C             | Cool; might feel chilly                    | Layer clothing to retain body heat; find windbreaks. |
+| 20°C             | Mild; comfortable for most                 | Stay hydrated and avoid prolonged exposure to cold.  |
+| 25°C             | Warm; nice summer day                      | Stay hydrated; seek shade to avoid heat exhaustion.  |
+| 30°C             | Hot; feels warm, especially in sunlight    | Limit activity during peak heat; find water sources. |
+| 35°C             | Quite hot; can feel oppressive             | Stay in shaded areas; use wet cloths to cool down.   |
+| 40°C             | Extremely hot; uncomfortable and dangerous | Stay indoors; ration water and avoid exertion.       |
 
 ## Next Steps
 You should now have a basic grasp of mathematics and basic applications of it. This information is enough to navigate the information in this vault as well as provide a basic understanding for [0 - Basic Survival Skills](../01%20-%20Survival/0%20-%20Basic%20Survival%20Skills.md).
