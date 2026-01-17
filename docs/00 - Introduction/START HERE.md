@@ -259,10 +259,10 @@ An example of a table is given below:
 
 | Drawing | Sides | Shape Name |
 | :-----: | :---: | ---------- |
-|   🔺    |   3   | Triangle   |
-|   🔷    |   4   | Diamond    |
+|    🔺    |   3   | Triangle   |
+|    🔷    |   4   | Diamond    |
 |    ⬛    |   4   | Square     |
-|   🟥    |   4   | Rectangle  |
+|    🟥    |   4   | Rectangle  |
 |    ⬢    |   6   | Hexagon    |
 
 Let us examine this table.
